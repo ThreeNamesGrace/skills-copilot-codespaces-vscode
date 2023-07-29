@@ -1,10 +1,3 @@
-function skillMember() {
-    var member = {
-        name: "John",
-        age: 30,
-        sayName: function () {
-            console.log(this.name);
-        }
-    };
-    return member;
+function skillsMember() {
+  console.log('I am a member of the team')
 }
